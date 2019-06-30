@@ -9,4 +9,6 @@ Wybiera się pizze i po przez stream api wyliczona jest cena. Cena pizzy to suma
 
 ![](webapp/VAADIN/themes/valo/kreator.JPG "Strona startowa")
 
+
+Utworzony rest, w którym jest dostęp do wszystkich danych zapisanych w bazie
 ![](webapp/VAADIN/themes/valo/rest.JPG "Strona startowa")
